@@ -20,7 +20,7 @@ pixel size = 2 bytes
 pclk = 6Mhz
 I am perfectly receiving 15 frames per second at 12Mhz cam master clock.
 
-![Screenshot](screenshot.png)
+![Screenshot](15 Frames per second.jpg)
 
 I noticed a blanking of 1 or 2 pixels at the sides of image. Dont know what it is for.
 We can negate blanking from frame rate. Wish I could find ov7670 proper datasheet. 
